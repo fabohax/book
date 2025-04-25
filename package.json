@@ -38,5 +38,10 @@
     "url": "https://github.com/clarity-lang/book/issues"
   },
   "homepage": "https://github.com/clarity-lang/book#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "markdown-it": "^14.1.0",
+    "path": "^0.12.7"
+  }
 }
